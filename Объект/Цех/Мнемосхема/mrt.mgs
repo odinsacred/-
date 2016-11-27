@@ -1,0 +1,1887 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>146:hC61Q2lwchV4L4a9hdJZ1ET9</MnemoID>
+  <Width>1920</Width>
+  <Height>1000</Height>
+  <IsBackGroundImage>false</IsBackGroundImage>
+  <ColorBackGround>8438015</ColorBackGround>
+  <ColorBackGroundHTML>#ffc080</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:192 B:128</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Item">
+    <Id>{e08c68ea-5cfb-4fc7-a515-a0a61bc5c589}</Id>
+    <Name>Прямоугольник 25</Name>
+    <X>62</X>
+    <Y>781</Y>
+    <Width>775</Width>
+    <Height>174</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{0a420b7d-9881-4493-a497-bfc533342b53}</Id>
+    <Name>Прямоугольник 18</Name>
+    <X>665</X>
+    <Y>42</Y>
+    <Width>136</Width>
+    <Height>29</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{c563b25c-7373-4d44-a83b-694625ab74fe}</Id>
+    <Name>Прямоугольник 31</Name>
+    <X>981</X>
+    <Y>896</Y>
+    <Width>18</Width>
+    <Height>81</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{c003aa2e-5254-43f2-980c-c778b9dd42d5}</Id>
+    <Name>Прямоугольник 32</Name>
+    <X>951</X>
+    <Y>855</Y>
+    <Width>16</Width>
+    <Height>141</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{93fb4ec3-455c-4cdc-869b-ecc3199d2388}</Id>
+    <Name>Прямоугольник 38</Name>
+    <X>1410</X>
+    <Y>918</Y>
+    <Width>16</Width>
+    <Height>52</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{dabc682a-e7de-467e-9287-3273a3f97e1c}</Id>
+    <Name>Прямоугольник 44</Name>
+    <X>774</X>
+    <Y>864</Y>
+    <Width>153</Width>
+    <Height>12</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{fc53b58b-2e66-4454-9f8c-d17566d3652b}</Id>
+    <Name>Прямоугольник 24</Name>
+    <X>35</X>
+    <Y>40</Y>
+    <Width>197</Width>
+    <Height>29</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{52d87a7c-1c41-462d-9827-974d92650d86}</Id>
+    <Name>Прямоугольник 15</Name>
+    <X>1321</X>
+    <Y>42</Y>
+    <Width>197</Width>
+    <Height>29</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{c08149fa-2314-4227-ab0c-e9ddecbf7c27}</Id>
+    <Name>Прямоугольник 20</Name>
+    <X>338</X>
+    <Y>42</Y>
+    <Width>136</Width>
+    <Height>29</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{a4a4212d-48da-4892-964f-6336ea7071d6}</Id>
+    <Name>Прямоугольник 3</Name>
+    <X>461</X>
+    <Y>14</Y>
+    <Width>221</Width>
+    <Height>129</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{557b5238-125f-430c-932e-cad73ee3a6f3}</Id>
+    <Name>Прямоугольник 16</Name>
+    <X>681</X>
+    <Y>90</Y>
+    <Width>978</Width>
+    <Height>16</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{d4c3c08b-55da-40e1-b5b9-136b052ef997}</Id>
+    <Name>Прямоугольник</Name>
+    <X>15</X>
+    <Y>27</Y>
+    <Width>62</Width>
+    <Height>57</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{0093a5f2-8213-4f1d-908a-e2b1c2464c07}</Id>
+    <Name>Прямоугольник 4</Name>
+    <X>696</X>
+    <Y>30</Y>
+    <Width>663</Width>
+    <Height>52</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00000000000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{1af87fd8-228b-4d9a-9705-3d56ce1a99b3}</Id>
+    <Name>Прямоугольник 5</Name>
+    <X>1389</X>
+    <Y>31</Y>
+    <Width>139</Width>
+    <Height>51</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{f9ceaa04-8551-4b55-ab5d-1e6d5ee227a4}</Id>
+    <Name>Прямоугольник 9</Name>
+    <X>1843</X>
+    <Y>397</Y>
+    <Width>18</Width>
+    <Height>580</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{62be87bd-9468-4d1c-8372-c5e9d4b3d716}</Id>
+    <Name>Прямоугольник 11</Name>
+    <X>1731</X>
+    <Y>385</Y>
+    <Width>103</Width>
+    <Height>16</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{98fabc68-8e15-46a8-9bb2-40a8aae8e05a}</Id>
+    <Name>Прямоугольник 12</Name>
+    <X>1731</X>
+    <Y>447</Y>
+    <Width>102</Width>
+    <Height>16</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{27de4972-7b25-474d-8d55-db46895081fd}</Id>
+    <Name>Прямоугольник 13</Name>
+    <X>1528</X>
+    <Y>42</Y>
+    <Width>153</Width>
+    <Height>29</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{e8d4b629-0e20-4d1e-9e83-0d7f03b0715b}</Id>
+    <Name>Прямоугольник 14</Name>
+    <X>1673</X>
+    <Y>42</Y>
+    <Width>43</Width>
+    <Height>259</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{1051d043-27b9-483d-9bab-886bd6569460}</Id>
+    <Name>Прямоугольник 17</Name>
+    <X>1642</X>
+    <Y>92</Y>
+    <Width>18</Width>
+    <Height>215</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{9dead033-7eff-4535-ba49-424b93ad5dcc}</Id>
+    <Name>Прямоугольник 19</Name>
+    <X>471</X>
+    <Y>28</Y>
+    <Width>197</Width>
+    <Height>54</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00000000000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{622641df-b545-4578-bafe-0a10d5ba00b0}</Id>
+    <Name>Прямоугольник 21</Name>
+    <X>566</X>
+    <Y>244</Y>
+    <Width>22</Width>
+    <Height>67</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{92b75ab7-2f0a-471f-a294-533cfde45090}</Id>
+    <Name>Группа 3</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{53ddc776-e90a-4787-8d20-b26a00784bc5}</ItemId>
+    <ItemId>{da4581fd-4ed6-48a2-bcb4-e80b7b177e52}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{53ddc776-e90a-4787-8d20-b26a00784bc5}</Id>
+    <Name>Прямоугольник 22</Name>
+    <X>508</X>
+    <Y>226</Y>
+    <Width>139</Width>
+    <Height>20</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{63143805-06eb-4532-b467-f36e531dce5c}</Id>
+    <Name>Прямоугольник 23</Name>
+    <X>566</X>
+    <Y>141</Y>
+    <Width>22</Width>
+    <Height>88</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{5a75686b-e341-4e13-b826-08e6fe6ba48d}</Id>
+    <Name>Прямоугольник 26</Name>
+    <X>834</X>
+    <Y>781</Y>
+    <Width>204</Width>
+    <Height>174</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{fe6e7ceb-48e1-4ce1-9ec2-2de11dee059d}</Id>
+    <Name>Прямоугольник 27</Name>
+    <X>881</X>
+    <Y>819</Y>
+    <Width>144</Width>
+    <Height>96</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{9d64105d-27c7-4bc9-b42d-46178e46f9e1}</Id>
+    <Name>Прямоугольник 28</Name>
+    <X>981</X>
+    <Y>960</Y>
+    <Width>879</Width>
+    <Height>18</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{1468bb71-a769-4a09-9e13-94e868b22bd1}</Id>
+    <Name>Прямоугольник 29</Name>
+    <X>1876</X>
+    <Y>386</Y>
+    <Width>18</Width>
+    <Height>610</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ee4b4c93-cf0f-4434-9d53-21434c8e6552}</Id>
+    <Name>Прямоугольник 30</Name>
+    <X>957</X>
+    <Y>982</Y>
+    <Width>922</Width>
+    <Height>14</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{a0178965-a7b6-404d-bd4c-43a1290a4c4d}</Id>
+    <Name>Прямоугольник 33</Name>
+    <X>1052</X>
+    <Y>891</Y>
+    <Width>16</Width>
+    <Height>76</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{112ef338-0dde-49a6-88f3-894984d36847}</Id>
+    <Name>Прямоугольник 34</Name>
+    <X>1067</X>
+    <Y>891</Y>
+    <Width>40</Width>
+    <Height>16</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{129a3abc-855a-46f6-af7b-222f12974c6a}</Id>
+    <Name>Прямоугольник 35</Name>
+    <X>1106</X>
+    <Y>884</Y>
+    <Width>296</Width>
+    <Height>28</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{477c36cc-2134-4a45-8531-c3311356f558}</Id>
+    <Name>Прямоугольник 36</Name>
+    <X>1466</X>
+    <Y>884</Y>
+    <Width>41</Width>
+    <Height>28</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{2600969e-a2d9-4c6c-83e9-360202836ca1}</Id>
+    <Name>Группа</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{364fa7ad-879a-401a-8225-18a1dddc9944}</ItemId>
+    <ItemId>{7011c971-8fb6-412f-ac01-131abdc90331}</ItemId>
+    <ItemId>{524b73f9-d99f-4b7a-ae5c-0e7f59866f5b}</ItemId>
+    <ItemId>{1014d238-ba24-4074-99df-2e670de90482}</ItemId>
+    <ItemId>{ca4833dc-a0ad-4344-a9b2-66c497f26fe1}</ItemId>
+    <ItemId>{255bcdb6-5141-4cf3-a9ee-ef1793765612}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{364fa7ad-879a-401a-8225-18a1dddc9944}</Id>
+    <Name>Прямоугольник 45</Name>
+    <X>1145</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{7011c971-8fb6-412f-ac01-131abdc90331}</Id>
+    <Name>Прямоугольник 46</Name>
+    <X>1150</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{524b73f9-d99f-4b7a-ae5c-0e7f59866f5b}</Id>
+    <Name>Прямоугольник 47</Name>
+    <X>1183</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{1014d238-ba24-4074-99df-2e670de90482}</Id>
+    <Name>Прямоугольник 48</Name>
+    <X>1188</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ca4833dc-a0ad-4344-a9b2-66c497f26fe1}</Id>
+    <Name>Линия</Name>
+    <X>1155</X>
+    <Y>886</Y>
+    <Width>29</Width>
+    <Height>24</Height>
+    <ControlProgId>{61e5154b-138c-4299-9fec-95febac6ae86}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300000000000b00ffff0000000000000000000000000300010000000b0000000b0000000b00ffff0300000000000300010000000200000000000000160000001b00000000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{255bcdb6-5141-4cf3-a9ee-ef1793765612}</Id>
+    <Name>Линия 1</Name>
+    <X>1156</X>
+    <Y>886</Y>
+    <Width>25</Width>
+    <Height>24</Height>
+    <ControlProgId>{61e5154b-138c-4299-9fec-95febac6ae86}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300000000000b00ffff0000000000000000000000000300010000000b0000000b0000000b00ffff0300000000000300010000000200000017000000160000000000000000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{23fc6d4d-78c6-4264-8d37-2fa36371a31c}</Id>
+    <Name>Прямоугольник 37</Name>
+    <X>1435</X>
+    <Y>896</Y>
+    <Width>32</Width>
+    <Height>5</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{12338289-e378-4aba-8acb-cc04e26845cd}</Id>
+    <Name>Прямоугольник 39</Name>
+    <X>1401</X>
+    <Y>874</Y>
+    <Width>33</Width>
+    <Height>46</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{740f7184-37bd-4d1e-ad43-1aeb38d053b6}</Id>
+    <Name>Прямоугольник 40</Name>
+    <X>1618</X>
+    <Y>545</Y>
+    <Width>16</Width>
+    <Height>146</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{47713743-3f1b-4805-9bf3-e179f5fdffc4}</Id>
+    <Name>Прямоугольник 41</Name>
+    <X>1657</X>
+    <Y>545</Y>
+    <Width>16</Width>
+    <Height>146</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1007000080808000000000000300000000000b00ffff00000000020000000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{751da1f3-6afe-4b23-8e9a-6f5d80fc7afd}</Id>
+    <Name>Прямоугольник 42</Name>
+    <X>1077</X>
+    <Y>812</Y>
+    <Width>444</Width>
+    <Height>188</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{1e64ae37-c448-4a0a-90b1-7d8891c97510}</Id>
+    <Name>Прямоугольник 43</Name>
+    <X>73</X>
+    <Y>843</Y>
+    <Width>722</Width>
+    <Height>55</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ba710344-06d1-4c0c-a49b-e4b10cbc0691}</Id>
+    <Name>Прямоугольник 7</Name>
+    <X>1529</X>
+    <Y>587</Y>
+    <Width>296</Width>
+    <Height>320</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{f8e70353-1b03-4382-adb6-4e2aec55d93a}</Id>
+    <Name>Прямоугольник 6</Name>
+    <X>1827</X>
+    <Y>350</Y>
+    <Width>84</Width>
+    <Height>131</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{e2c42ab1-4676-4cb8-bd15-d43fff5edd0b}</Id>
+    <Name>Прямоугольник 10</Name>
+    <X>1597</X>
+    <Y>300</Y>
+    <Width>134</Width>
+    <Height>246</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{e2e2c32d-aa4b-4bd0-b0fd-5525d7c11954}</Id>
+    <Name>Группа 1</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{5bf269be-f9e3-4dc0-9bbe-1b0d92bd40ca}</ItemId>
+    <ItemId>{a15ab572-cc22-4326-84ca-ea3180a16892}</ItemId>
+    <ItemId>{2b62ca03-2d09-42ad-ade6-c18549c652d1}</ItemId>
+    <ItemId>{be5abb6b-a3fe-4601-921d-ca147a0100d2}</ItemId>
+    <ItemId>{8c73856d-bd63-48e6-9608-5222344e0662}</ItemId>
+    <ItemId>{2d105793-47ee-4a8e-a55e-7017f103c55d}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{5bf269be-f9e3-4dc0-9bbe-1b0d92bd40ca}</Id>
+    <Name>Прямоугольник 45</Name>
+    <X>1267</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{a15ab572-cc22-4326-84ca-ea3180a16892}</Id>
+    <Name>Прямоугольник 46</Name>
+    <X>1272</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{2b62ca03-2d09-42ad-ade6-c18549c652d1}</Id>
+    <Name>Прямоугольник 47</Name>
+    <X>1305</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{be5abb6b-a3fe-4601-921d-ca147a0100d2}</Id>
+    <Name>Прямоугольник 48</Name>
+    <X>1310</X>
+    <Y>877</Y>
+    <Width>6</Width>
+    <Height>42</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000ffffff00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{8c73856d-bd63-48e6-9608-5222344e0662}</Id>
+    <Name>Линия</Name>
+    <X>1277</X>
+    <Y>886</Y>
+    <Width>29</Width>
+    <Height>24</Height>
+    <ControlProgId>{61e5154b-138c-4299-9fec-95febac6ae86}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300000000000b00ffff0000000000000000000000000300010000000b0000000b0000000b00ffff0300000000000300010000000200000000000000160000001b00000000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{2d105793-47ee-4a8e-a55e-7017f103c55d}</Id>
+    <Name>Линия 1</Name>
+    <X>1278</X>
+    <Y>886</Y>
+    <Width>25</Width>
+    <Height>24</Height>
+    <ControlProgId>{61e5154b-138c-4299-9fec-95febac6ae86}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300000000000b00ffff0000000000000000000000000300010000000b0000000b0000000b00ffff0300000000000300010000000200000017000000160000000000000000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{02fc29a7-a8c4-4d6e-b2be-671e3c61bc8a}</Id>
+    <Name>Группа 4</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{a98546da-43b6-4708-88bb-a3a14dca8b57}</ItemId>
+    <ItemId>{e1593bf3-e739-48e2-8ff7-876aa8b206e3}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{a98546da-43b6-4708-88bb-a3a14dca8b57}</Id>
+    <Name>Прямоугольник 1</Name>
+    <X>91</X>
+    <Y>27</Y>
+    <Width>355</Width>
+    <Height>57</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00ffff00000000020001000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{500303a4-5a8f-4e67-9258-0c240c211b39}</Id>
+    <Name>Текст</Name>
+    <X>450</X>
+    <Y>800</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0a00000021041d041804140400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc020417030005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ca4f7f00-d7b1-4589-ace0-ae32bebd3dc8}</Id>
+    <Name>Текст 1</Name>
+    <X>760</X>
+    <Y>8</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0800000021041a04180400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc020417030005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{da4581fd-4ed6-48a2-bcb4-e80b7b177e52}</Id>
+    <Name>Текст 2</Name>
+    <X>512</X>
+    <Y>226</Y>
+    <Width>130</Width>
+    <Height>17</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1e0000003f043d04350432043c043e04340440043e044104410435043b044c0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc02c0d4010005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{aafa0060-2521-4d79-a82d-92f800b75557}</Id>
+    <Name>Группа 2</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{8694c65d-1fb6-467b-b08c-b3b6fb503ad1}</ItemId>
+    <ItemId>{f8373f5d-2bf9-47b2-b779-79fedb154de8}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{8694c65d-1fb6-467b-b08c-b3b6fb503ad1}</Id>
+    <Name>Прямоугольник 45</Name>
+    <X>526</X>
+    <Y>309</Y>
+    <Width>102</Width>
+    <Height>160</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000dddddd00000000000300000000000b00000000000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{f8373f5d-2bf9-47b2-b779-79fedb154de8}</Id>
+    <Name>Текст 3</Name>
+    <X>531</X>
+    <Y>376</Y>
+    <Width>87</Width>
+    <Height>17</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>160000003a043e043c043f0440043504410441043e04400400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc02c0d4010005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{e1593bf3-e739-48e2-8ff7-876aa8b206e3}</Id>
+    <Name>Текст 8</Name>
+    <X>121</X>
+    <Y>44</Y>
+    <Width>281</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>220000004d043b0435043a04420440043e0434043204380433043004420435043b044c0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc0220bf020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{92853513-8425-4e0f-b2b5-02a2419fb70b}</Id>
+    <Name>Текст 2</Name>
+    <X>469</X>
+    <Y>95</Y>
+    <Width>205</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>2e0000003a043e043b043b0435043a0442043e04400420003f043e04340432043e0434043004200032043e0434044b0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc02c0d4010005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{c9ed207a-e99f-4bcd-9bdc-5c1cd9dfd4b6}</Id>
+    <Name>Текст 3</Name>
+    <X>1243</X>
+    <Y>820</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0a0000002104180426041d0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc020417030005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{14bb9c79-f336-466b-80cc-b6bcdba9e6d9}</Id>
+    <Name>Текст 4</Name>
+    <X>1623</X>
+    <Y>735</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>08000000110430043a0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{f870e672-5507-4427-8493-558ed80cd6d3}</Id>
+    <Name>Текст 5</Name>
+    <X>1471</X>
+    <Y>886</Y>
+    <Width>30</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>060000004d04340400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{f6be5787-ad40-4968-ae54-222df43b7462}</Id>
+    <Name>Текст 6</Name>
+    <X>1319</X>
+    <Y>885</Y>
+    <Width>79</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0c0000003d04300441043e04410400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{dd5e0e6b-d2da-47f4-823d-0304cb1b9c6e}</Id>
+    <Name>Текст 7</Name>
+    <X>880</X>
+    <Y>857</Y>
+    <Width>141</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>1800000013043804340440043e0442043e0440043c043e04370400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{6aa95521-db43-4c8c-9b4b-a8a44c743353}</Id>
+    <Name>Текст 9</Name>
+    <X>296</X>
+    <Y>859</Y>
+    <Width>281</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>220000004d043b0435043a04420440043e0434043204380433043004420435043b044c0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc0220bf020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{9052a763-49db-4831-a2e6-8f1fa1fe9f0b}</Id>
+    <Name>Текст 8</Name>
+    <X>1614</X>
+    <Y>408</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>060000002104230400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{3d2f15b6-3b2f-4806-bf3d-81b4b7ba03f1}</Id>
+    <Name>Текст 10</Name>
+    <X>1818</X>
+    <Y>408</Y>
+    <Width>100</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>280000002004300434043804300442043e04400420003e0445043b0430043604340435043d0438044f0400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc02c0d4010005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{34d6c565-a21f-4584-9ec0-259dd2fa91af}</Id>
+    <Name>Текст 11</Name>
+    <X>909</X>
+    <Y>44</Y>
+    <Width>79</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0c0000003d04300441043e04410400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{267f2274-73c6-4027-8b6a-52ae5435c0f3}</Id>
+    <Name>Текст 12</Name>
+    <X>1410</X>
+    <Y>43</Y>
+    <Width>103</Width>
+    <Height>25</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>120000001704300434043204380436043a04300400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc023c67020005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{ce336b77-e628-49be-9a9a-14da446c9775}</Id>
+    <Name>Группа 5</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{afb7ac73-e449-4cf4-a2a7-919e9844d18d}</ItemId>
+    <ItemId>{46da9014-0743-48d4-a1b6-faf13147f2aa}</ItemId>
+    <ItemId>{ed0f1ee9-d06c-4c5a-becb-6405460a3b91}</ItemId>
+    <ItemId>{ad55f538-7764-4c52-9265-c8c29230540f}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{afb7ac73-e449-4cf4-a2a7-919e9844d18d}</Id>
+    <Name>Эллипс</Name>
+    <X>483</X>
+    <Y>34</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{46da9014-0743-48d4-a1b6-faf13147f2aa}</Id>
+    <Name>Эллипс 1</Name>
+    <X>483</X>
+    <Y>44</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ed0f1ee9-d06c-4c5a-becb-6405460a3b91}</Id>
+    <Name>Эллипс 2</Name>
+    <X>483</X>
+    <Y>53</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ad55f538-7764-4c52-9265-c8c29230540f}</Id>
+    <Name>Эллипс 3</Name>
+    <X>483</X>
+    <Y>63</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{6f94386a-2311-4a49-b6fb-cc8450afe4f1}</Id>
+    <Name>Группа 6</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{66913397-1163-40e8-af56-91d978c539e2}</ItemId>
+    <ItemId>{659f164d-b373-48aa-a25e-e5651eb61473}</ItemId>
+    <ItemId>{c49c5b4c-510b-4c78-ade7-5d90f581d7a1}</ItemId>
+    <ItemId>{b4803918-fad7-43b3-ae5c-a979c03337c8}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{66913397-1163-40e8-af56-91d978c539e2}</Id>
+    <Name>Эллипс</Name>
+    <X>496</X>
+    <Y>34</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{659f164d-b373-48aa-a25e-e5651eb61473}</Id>
+    <Name>Эллипс 1</Name>
+    <X>496</X>
+    <Y>44</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{c49c5b4c-510b-4c78-ade7-5d90f581d7a1}</Id>
+    <Name>Эллипс 2</Name>
+    <X>496</X>
+    <Y>53</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{b4803918-fad7-43b3-ae5c-a979c03337c8}</Id>
+    <Name>Эллипс 3</Name>
+    <X>496</X>
+    <Y>63</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{6f1953d0-8066-4669-8c86-44066953ebe7}</Id>
+    <Name>Группа 8</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{f96b39a7-bb9c-4d54-9424-b9ba00345795}</ItemId>
+    <ItemId>{a574397c-3f4a-416b-8d80-e10afaaa1721}</ItemId>
+    <ItemId>{a902306a-cf47-4257-8348-523a6756f3dd}</ItemId>
+    <ItemId>{45075eb1-ef50-441b-baa7-28ad7a183c59}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{f96b39a7-bb9c-4d54-9424-b9ba00345795}</Id>
+    <Name>Эллипс</Name>
+    <X>509</X>
+    <Y>34</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{a574397c-3f4a-416b-8d80-e10afaaa1721}</Id>
+    <Name>Эллипс 1</Name>
+    <X>509</X>
+    <Y>44</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{a902306a-cf47-4257-8348-523a6756f3dd}</Id>
+    <Name>Эллипс 2</Name>
+    <X>509</X>
+    <Y>53</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{45075eb1-ef50-441b-baa7-28ad7a183c59}</Id>
+    <Name>Эллипс 3</Name>
+    <X>509</X>
+    <Y>63</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{c33c9b31-bc50-4474-947c-ba0dd3dccc53}</Id>
+    <Name>Группа 9</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{a2ffec3f-90ca-4b0d-bf0a-d3ee3cd94672}</ItemId>
+    <ItemId>{29fc9493-aada-4b40-b840-7cc28f4855fe}</ItemId>
+    <ItemId>{bfdfec78-6fac-409c-9226-838ef61919e8}</ItemId>
+    <ItemId>{b900abaa-d8e9-49cf-a140-eb69391957e3}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{a2ffec3f-90ca-4b0d-bf0a-d3ee3cd94672}</Id>
+    <Name>Эллипс</Name>
+    <X>522</X>
+    <Y>34</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{29fc9493-aada-4b40-b840-7cc28f4855fe}</Id>
+    <Name>Эллипс 1</Name>
+    <X>522</X>
+    <Y>44</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{bfdfec78-6fac-409c-9226-838ef61919e8}</Id>
+    <Name>Эллипс 2</Name>
+    <X>522</X>
+    <Y>53</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{b900abaa-d8e9-49cf-a140-eb69391957e3}</Id>
+    <Name>Эллипс 3</Name>
+    <X>522</X>
+    <Y>63</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{fc55b87f-7f89-467f-aeab-eda267e5a7b9}</Id>
+    <Name>Группа 10</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <ItemId>{a7686d36-a6ee-4f16-be29-80f5088ab6eb}</ItemId>
+    <ItemId>{7ea86537-bec9-489c-aa5a-cd269481a880}</ItemId>
+    <ItemId>{05368e11-d29f-498e-baeb-c598fd239f1b}</ItemId>
+    <ItemId>{fe190b46-f616-43d9-8073-c1de4ff928a3}</ItemId>
+  </Item>
+  <Item Type="Item">
+    <Id>{a7686d36-a6ee-4f16-be29-80f5088ab6eb}</Id>
+    <Name>Эллипс</Name>
+    <X>535</X>
+    <Y>34</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{7ea86537-bec9-489c-aa5a-cd269481a880}</Id>
+    <Name>Эллипс 1</Name>
+    <X>535</X>
+    <Y>44</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{05368e11-d29f-498e-baeb-c598fd239f1b}</Id>
+    <Name>Эллипс 2</Name>
+    <X>535</X>
+    <Y>53</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{fe190b46-f616-43d9-8073-c1de4ff928a3}</Id>
+    <Name>Эллипс 3</Name>
+    <X>535</X>
+    <Y>63</Y>
+    <Width>15</Width>
+    <Height>12</Height>
+    <ControlProgId>{c574dd34-4c61-404b-b995-a98e0bc98efc}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>ff03000001000000f0f0f000000000000300000000000b00ffff0000000002000200030000000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{b725efc7-6622-482c-8efe-4615f506a01c}</Id>
+    <Name>Текст 13</Name>
+    <X>16</X>
+    <Y>21</Y>
+    <Width>58</Width>
+    <Height>66</Height>
+    <ControlProgId>{73016e4b-73ce-44d6-a098-4b7ea9b25b48}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>220000003d04300441043e04410420000d000a00310430044204430442043d044b04390400001007000000000000ffffff0009000352e30b918fce119de300aa004bb85101cc0002bc02c0d4010005417269616c0b0000000300010000000300010000000b000000030000000000030000000000030000000000030000000000050000000000000000000300000000000300000000000300000000000300ffffff000800020000000000030002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{dc180b82-2cd0-490d-a6a5-c89b3635fd02}</Id>
+    <Name>Кнопка объекта</Name>
+    <X>63</X>
+    <Y>782</Y>
+    <Width>772</Width>
+    <Height>171</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>2600000018043c04380442043004460438043e043d043d044b04390420004104420435043d04340400001300c0c0c000020002000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000ca4f0000ac1100000a00000024003100340039000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff080000000000020001000800020000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$149</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{1459834f-e28c-4819-b5b7-4298a6755af9}</Id>
+    <Name>Прямоугольник 45</Name>
+    <X>3</X>
+    <Y>3</Y>
+    <Width>1558</Width>
+    <Height>142</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{010eb3c2-1491-4755-ba7d-5dfeb1d60cf7}</Id>
+    <Name>Кнопка объекта 1</Name>
+    <X>4</X>
+    <Y>4</Y>
+    <Width>1556</Width>
+    <Height>140</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0800000021041a04180400001300c0c0c000020003000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000d1a00000780e00000e0000002400310036003700300036000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff080000000000020001000800020000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$16706</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{6a9279a5-95d4-4993-a22d-a80fa16e34aa}</Id>
+    <Name>Кнопка объекта 2</Name>
+    <X>1078</X>
+    <Y>813</Y>
+    <Width>442</Width>
+    <Height>187</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0a0000002104180426041d0400001300c0c0c000020002000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000af2d0000541300000e0000002400310038003100380031000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff0800000000000200ffff080000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18181</Value>
+    </Property>
+  </Item>
+</Mnemoscheme>

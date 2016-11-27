@@ -1,0 +1,941 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link id=Main-File rel=Main-File href="../Просмотр.html">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\ ";}
+@page
+	{margin:.75in .7in .75in .7in;
+	mso-header-margin:.3in;
+	mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../Просмотр.html");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=blue vlink=purple>
+
+<table border=0 cellpadding=0 cellspacing=0 width=3563 style='border-collapse:
+ collapse;table-layout:fixed;width:2674pt'>
+ <col width=35 style='mso-width-source:userset;mso-width-alt:1280;width:26pt'>
+ <col width=170 style='mso-width-source:userset;mso-width-alt:6217;width:128pt'>
+ <col width=84 style='mso-width-source:userset;mso-width-alt:3072;width:63pt'>
+ <col width=248 span=8 style='mso-width-source:userset;mso-width-alt:9069;
+ width:186pt'>
+ <col width=170 span=2 style='mso-width-source:userset;mso-width-alt:6217;
+ width:128pt'>
+ <col width=233 style='mso-width-source:userset;mso-width-alt:8521;width:175pt'>
+ <col width=204 span=3 style='mso-width-source:userset;mso-width-alt:7460;
+ width:153pt'>
+ <col width=105 style='mso-width-source:userset;mso-width-alt:3840;width:79pt'>
+ <tr class=xl65 height=58 style='mso-height-source:userset;height:43.5pt'>
+  <td height=58 class=xl67 width=35 style='height:43.5pt;width:26pt'>Время, сек</td>
+  <td class=xl67 width=170 style='border-left:none;width:128pt'>Обороты, об/мин</td>
+  <td class=xl67 width=84 style='border-left:none;width:63pt'>Момент Н*м</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Напряжение, В</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Ток, А</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Вибрация X1,
+  м/с</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Вибрация X2,
+  м/с</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Вибрация Y1,
+  м/с</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Вибрация Y2,
+  м/с</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Температура 1,
+  °С</td>
+  <td class=xl67 width=248 style='border-left:none;width:186pt'>Температура 2,
+  °С</td>
+  <td class=xl67 width=170 style='border-left:none;width:128pt'>Температура 3,
+  °С</td>
+  <td class=xl67 width=170 style='border-left:none;width:128pt'>Давление,<br>
+    кгс/см2<br>
+    </td>
+  <td class=xl67 width=233 style='border-left:none;width:175pt'>Мощность
+  потребляемая, Вт</td>
+  <td class=xl68 width=204 style='border-left:none;width:153pt'>Мощность
+  полезная, Вт</td>
+  <td class=xl68 width=204 style='border-left:none;width:153pt'>КПД</td>
+  <td class=xl66 width=204 style='border-left:none;width:153pt'>Коэф-т мощности</td>
+  <td class=xl66 width=105 style='border-left:none;width:79pt'>Потери мощности,
+  Вт</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 style='height:15.0pt;font-size:11.0pt;color:white;font-weight:
+  700;text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:.5pt solid windowtext;border-right:.5pt solid white;
+  border-bottom:1.5pt solid white;border-left:none;background:#4F81BD;
+  mso-pattern:#4F81BD none'>id</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Обороты</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Момент</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>ВибрацияX1</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>ВибрацияX2</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>ВибрацияY1</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>ВибрацияY2</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Температура1</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Температура2</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Температура3</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Давление</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Мощность_потребляемая</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Мощность_полезная</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>КПД</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:.5pt solid white;border-bottom:
+  1.5pt solid white;border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Коэффициент_мощности</td>
+  <td style='font-size:11.0pt;color:white;font-weight:700;text-decoration:none;
+  text-underline-style:none;text-line-through:none;font-family:Calibri;
+  border-top:.5pt solid windowtext;border-right:none;border-bottom:1.5pt solid white;
+  border-left:none;background:#4F81BD;mso-pattern:#4F81BD none'>Потери_мощности</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#B8CCE4;
+  mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>20.3008348</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#DBE5F1;
+  mso-pattern:#DBE5F1 none'>1</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>20.26458489</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#B8CCE4;
+  mso-pattern:#B8CCE4 none'>2</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>20.1378352</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#DBE5F1;
+  mso-pattern:#DBE5F1 none'>3</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>20.78434471</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#B8CCE4;
+  mso-pattern:#B8CCE4 none'>4</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>21.03919256</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#DBE5F1;
+  mso-pattern:#DBE5F1 none'>5</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>20.49390382</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#B8CCE4;
+  mso-pattern:#B8CCE4 none'>6</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>20.61880548</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#DBE5F1;
+  mso-pattern:#DBE5F1 none'>7</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>20.95795616</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#B8CCE4;
+  mso-pattern:#B8CCE4 none'>8</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>20.77286605</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:.5pt solid white;border-left:none;background:#DBE5F1;
+  mso-pattern:#DBE5F1 none'>9</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>19.79119914</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  .5pt solid white;border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:none;border-bottom:.5pt solid white;
+  border-left:none;background:#DBE5F1;mso-pattern:#DBE5F1 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 align=right style='height:15.0pt;font-size:11.0pt;color:black;
+  font-weight:400;text-decoration:none;text-underline-style:none;text-line-through:
+  none;font-family:Calibri;border-top:none;border-right:.5pt solid white;
+  border-bottom:none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>10</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>20.17932965</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;border-top:none;border-right:.5pt solid white;border-bottom:
+  none;border-left:none;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td align=right style='font-size:11.0pt;color:black;font-weight:400;
+  text-decoration:none;text-underline-style:none;text-line-through:none;
+  font-family:Calibri;background:#B8CCE4;mso-pattern:#B8CCE4 none'>0</td>
+  <td colspan=2 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=120 style='height:90.0pt;mso-xlrowspan:6'>
+  <td height=120 colspan=18 style='height:90.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=18 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=18 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=35 style='width:26pt'></td>
+  <td width=170 style='width:128pt'></td>
+  <td width=84 style='width:63pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=248 style='width:186pt'></td>
+  <td width=170 style='width:128pt'></td>
+  <td width=170 style='width:128pt'></td>
+  <td width=233 style='width:175pt'></td>
+  <td width=204 style='width:153pt'></td>
+  <td width=204 style='width:153pt'></td>
+  <td width=204 style='width:153pt'></td>
+  <td width=105 style='width:79pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

@@ -1,0 +1,317 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>18247:hC61Q2lwchV4L4a9hdJZ1ET9</MnemoID>
+  <Width>225</Width>
+  <Height>350</Height>
+  <IsBackGroundImage>false</IsBackGroundImage>
+  <ColorBackGround>8438015</ColorBackGround>
+  <ColorBackGroundHTML>#ffc080</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:192 B:128</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Item">
+    <Id>{b51fad32-07bd-4e58-9597-41ef56a3aac5}</Id>
+    <Name>Поля выбора</Name>
+    <X>10</X>
+    <Y>185</Y>
+    <Width>200</Width>
+    <Height>50</Height>
+    <ControlProgId>{b2c74fc3-b8cd-11d4-bf15-b7ffe40bcc6f}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>030003000000000000001300f0f0f000000000000b0000001300f0f0f0000c00000041007200690061006c00000002000c001300000000000b00ffff0b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b000000120001002a0000001004320442043e043c043004420438044704350441043a0438043904200040043504360438043c0400000300000000000b000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{047f5fde-4170-4117-9f2c-f7be61f5fc9d}</Id>
+    <Name>Значение</Name>
+    <X>9</X>
+    <Y>41</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac1400000300950200004800000024002f005300310035002e00310036003500380034002e00310037003800370033002e00310037003800370034002e00310037003800390037002e0031003700390030003000000003001b000000030000000000030080ffff000200070002000100030002000000020000000200000003000000ff0003000200000002000300020000000800240000001e04310449043504350420004704380441043b043e0420004804300433043e0432040000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc0000900174b7010005417269616c03000000000003000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000003000000000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a00730073000000020000000800da0000001f043e0441043b04350420003a0430043b043804310440043e0432043a043804200037043404350441044c0420003e0442043e04310440043004360430043504420441044f04200040043004410441044704350442043d043e04350420004704380441043b043e0420004804300433043e04320420002804140420003d0435043e04310445043e04340438043c043e04350420003d04300420003f043e043b043d043e04350420003e0442043a0440044b04420438043504200038043b0438042000370430043a0440044b04420438043504200028041a0400000800840000001a043e043c043f044c044e04420435044004200031002e0049006e0053004100540020004d006f00640062007500730020004f005000430020005300650072007600650072002000440041002e005300490043004e002e00490038003800330030002e005300740065007000440072006900760065002e007300740065007000730000000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$/S15.16584.17873.17874.17897.17900</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{16a5884b-58cc-4596-a32c-ea3f0e79d8fe}</Id>
+    <Name>Кнопка</Name>
+    <X>9</X>
+    <Y>11</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac1400000300950200000e000000240031003800330036003800000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008001e0000001a0430043b043804310440043e043204300442044c04200028041404000008001e0000001a0430043b043804310440043e043204300442044c0420002804140400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff08000000000008004a0000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e001a0430043b043804310440043e043204300442044c042000280414040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18368</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{c8f2795a-f950-4d85-8058-9b7f39bf9e56}</Id>
+    <Name>Кнопка 1</Name>
+    <X>10</X>
+    <Y>75</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac1400000300950200000e000000240031003800320036003200000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008001e0000001e0442043a0440044b0442044c0420003a043b0430043f0430043d04000008001e0000001e0442043a0440044b0442044c0420003a043b0430043f0430043d0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff08000000000008003c0000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e001e0442043a0440044b0442044c040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18262</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{db49a599-b2f6-4642-9cb8-96f91a513600}</Id>
+    <Name>Кнопка 2</Name>
+    <X>10</X>
+    <Y>110</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac1400000300950200000e000000240031003800320036003300000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008001e000000170430043a0440044b0442044c0420003a043b0430043f0430043d04000008001e000000170430043a0440044b0442044c0420003a043b0430043f0430043d0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff08000000000008003c0000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e00170430043a0440044b0442044c040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18263</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{1b4ad43c-0aba-4cbf-b7b6-3e5c8bb8a64d}</Id>
+    <Name>Значение 1</Name>
+    <X>10</X>
+    <Y>245</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac140000030095020000260000002400310038003200360039002e00310038003200310039002e0031003900300036003200000003001b000000030000000000030080ffff000200070002000100030002000000020000000200000003000000ff00030004000000020003000200000008001800000021043e04410442043e044f043d04380435043a0020000000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c03000000000003000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000003000000000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a007300730000000200ffff0800000000000800760000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e0023043f044004300432043b0435043d0438043504280414042e0012044b0445043e0434044b042e0021043e04410442043e044f043d04380435041a043b0430043f0430043d04300400000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18269.18219.19062</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{d5bddcba-7006-4f59-ba2c-716518c62c6e}</Id>
+    <Name>Кнопка 3</Name>
+    <X>10</X>
+    <Y>145</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac1400000300950200000e000000240031003900300036003000000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008000a000000210442043e043f04000008000a000000210442043e043f0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff0800000000000800360000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e00210442043e043f040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$19060</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{fa88d99c-4c8a-4702-9187-fb9821199370}</Id>
+    <Name>Значение 2</Name>
+    <X>10</X>
+    <Y>279</Y>
+    <Width>200</Width>
+    <Height>25</Height>
+    <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300ac140000030095020000260000002400310038003200360039002e00310038003200310039002e0031003900300036003300000003001b000000030000000000030080ffff000200070002000100030002000000020000000200000003000000ff0003000400000002000300020000000800020000000000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c03000000000003000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a007300730000000200ffff08000000000008007c0000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e0023043f044004300432043b0435043d0438043504280414042e0012044b0445043e0434044b042e0021043e04410442043e044f043d04380435041a0430043b043804310440043e0432043a04380400000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18269.18219.19063</Value>
+    </Property>
+  </Item>
+  <Pin Type="MSPout">
+    <Id>{3ea94185-6478-449a-bb81-e92c9bd696b6}</Id>
+    <Name>Местное</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPoutId>1</MSPoutId>
+    <MSPoutName>Объект.Цех.СИЦН.Шаровый кран.Авто</MSPoutName>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{7015a44c-fa44-45a2-99d5-67f5ccabfad1}</Id>
+    <Name>Местное 1</Name>
+    <IsAnalog>true</IsAnalog>
+    <MinBound>0</MinBound>
+    <MaxBound>100</MaxBound>
+    <MSPinId>2</MSPinId>
+  </Pin>
+  <Pin Type="MSPout">
+    <Id>{6c287c61-0927-4360-9008-15b7a7212671}</Id>
+    <Name>Авто</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPoutId>3</MSPoutId>
+    <MSPoutName>Объект.Цех.СИЦН.Шаровый кран.Авто</MSPoutName>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{e91b2503-818a-4a99-80e2-51078eeada62}</Id>
+    <Name>Авто 1</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPinId>4</MSPinId>
+    <MSPinName>Объект.Цех.СИЦН.Шаровый кран.Авто</MSPinName>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{adeee571-b8a6-44ca-83bb-733ee4dca0e0}</Id>
+    <ItemId>{b51fad32-07bd-4e58-9597-41ef56a3aac5}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>true</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPout">
+    <Id>{09262739-c531-43fc-a984-c87e3efcde91}</Id>
+    <ItemId>{b51fad32-07bd-4e58-9597-41ef56a3aac5}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{a13fa936-93a5-481b-a40a-fa9d3c9946cb}</Id>
+    <ItemId>{16a5884b-58cc-4596-a32c-ea3f0e79d8fe}</ItemId>
+    <ItemDispid>1017</ItemDispid>
+    <ItemDispidName>Заблокирован</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{3300e779-4521-4721-8f90-85e6a5de9c17}</Id>
+    <ItemId>{c8f2795a-f950-4d85-8058-9b7f39bf9e56}</ItemId>
+    <ItemDispid>1017</ItemDispid>
+    <ItemDispidName>Заблокирован</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{a44cd801-1d57-48ad-8a30-d4367e906644}</Id>
+    <ItemId>{db49a599-b2f6-4642-9cb8-96f91a513600}</ItemId>
+    <ItemDispid>1017</ItemDispid>
+    <ItemDispidName>Заблокирован</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{6840965f-b6ba-424c-85b4-1dc364ea755c}</Id>
+    <ItemId>{d5bddcba-7006-4f59-ba2c-716518c62c6e}</ItemId>
+    <ItemDispid>1017</ItemDispid>
+    <ItemDispidName>Заблокирован</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Link Type="Link">
+    <Id>{5e89cf45-1b50-4f18-80b2-a73d946a48ac}</Id>
+    <SourceId>{7015a44c-fa44-45a2-99d5-67f5ccabfad1}</SourceId>
+    <DestId>{adeee571-b8a6-44ca-83bb-733ee4dca0e0}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{ac01f6a8-8fd2-4b5f-b0fa-353463e27995}</Id>
+    <SourceId>{09262739-c531-43fc-a984-c87e3efcde91}</SourceId>
+    <DestId>{6c287c61-0927-4360-9008-15b7a7212671}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{9c025084-7fe3-4fad-aa7b-447ebeb30405}</Id>
+    <SourceId>{e91b2503-818a-4a99-80e2-51078eeada62}</SourceId>
+    <DestId>{a13fa936-93a5-481b-a40a-fa9d3c9946cb}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{81441bf8-1c7d-4f0d-b3e7-e034afe5ce37}</Id>
+    <SourceId>{e91b2503-818a-4a99-80e2-51078eeada62}</SourceId>
+    <DestId>{3300e779-4521-4721-8f90-85e6a5de9c17}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{00a2eb39-6da1-4cbf-b65b-e1343e425d82}</Id>
+    <SourceId>{e91b2503-818a-4a99-80e2-51078eeada62}</SourceId>
+    <DestId>{a44cd801-1d57-48ad-8a30-d4367e906644}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{943a5982-d223-4c7f-9f5a-2a68c2f70155}</Id>
+    <SourceId>{e91b2503-818a-4a99-80e2-51078eeada62}</SourceId>
+    <DestId>{6840965f-b6ba-424c-85b4-1dc364ea755c}</DestId>
+  </Link>
+</Mnemoscheme>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <const name="eqDiameterOnInput">
+    <value>179.1</value>
+  </const>
+  <const name="eqDiameterOnOutput">
+    <value>50.1</value>
+  </const>
+  <const name="pointNum">
+    <value>5</value>
+  </const>
+  <const name="length">
+    <value>10</value>
+  </const>
+  <const name="density">
+    <value>1.1</value>
+  </const>
+  <const name="coefA">
+    <value>1.1</value>
+  </const>
+  <const name="coefB">
+    <value>1.1</value>
+  </const>
+  <const name="stepsNum">
+    <value>3</value>
+  </const>
+</settings>

@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>18709:hC61Q2lwchV4L4a9hdJZ1ET9</MnemoID>
+  <Width>230</Width>
+  <Height>250</Height>
+  <IsBackGroundImage>false</IsBackGroundImage>
+  <ColorBackGround>8438015</ColorBackGround>
+  <ColorBackGroundHTML>#ffc080</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:192 B:128</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Item">
+    <Id>{44612dc4-400f-402e-990e-5af36b79de90}</Id>
+    <Name>Прямоугольник 2</Name>
+    <X>10</X>
+    <Y>170</Y>
+    <Width>210</Width>
+    <Height>76</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{2e1b44e0-e358-4fa3-b97f-1e3aa22eaa34}</Id>
+    <Name>Прямоугольник 1</Name>
+    <X>10</X>
+    <Y>90</Y>
+    <Width>210</Width>
+    <Height>76</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300070000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{b9fe1ae4-cf71-435a-94ab-421a5f79200a}</Id>
+    <Name>Прямоугольник</Name>
+    <X>10</X>
+    <Y>10</Y>
+    <Width>210</Width>
+    <Height>76</Height>
+    <ControlProgId>{0d187b87-e498-4268-adec-71a418bd7be7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>10070000f0f0f000000000000300000000000b00ffff00000000020002000200000002000000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{be22718d-4faf-48bb-9c6b-c99b8d8c6e22}</Id>
+    <Name>Кнопка</Name>
+    <X>115</X>
+    <Y>20</Y>
+    <Width>99</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>03003b0a00000300950200000e000000240031003800370031003500000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008000a0000001f04430441043a04000008000a0000001f04430441043a0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff0800000000000800320000002604350445042e002104180426041d042e0023043f044004300432043b0435043d04380435042e001f04430441043a040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18715</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{bfd88fe4-43df-4424-86fe-4a0da4aa00d9}</Id>
+    <Name>Кнопка 1</Name>
+    <X>14</X>
+    <Y>20</Y>
+    <Width>99</Width>
+    <Height>25</Height>
+    <ControlProgId>{45a7a4ad-4da0-444c-8e9e-e29655ff25f6}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>03003b0a00000300950200000e000000240031003800370031003600000003001b0000000300f0f0f00003000200000003000000000008001000000054006f006f006c0074006900700000000800020000000000080002000000000008000a000000210442043e043f04000008000a000000210442043e043f0400000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c0300010000000300000000000300000000000200ffff0800000000000800320000002604350445042e002104180426041d042e0023043f044004300432043b0435043d04380435042e00210442043e043f040000</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18716</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{97d5e4ad-58e5-4c2a-8bd3-d20b223b0990}</Id>
+    <Name>Поля выбора</Name>
+    <X>12</X>
+    <Y>92</Y>
+    <Width>204</Width>
+    <Height>70</Height>
+    <ControlProgId>{b2c74fc3-b8cd-11d4-bf15-b7ffe40bcc6f}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>030003000000000000001300f0f0f000000000000b0000001300f0f0f0000c00000041007200690061006c00000002000c001300000000000b00ffff0b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b00000012000100100000001004320442043e043c043004420400000300000000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{ff58c067-0f0e-43a1-9691-907f8ddc5680}</Id>
+    <Name>Поля выбора 1</Name>
+    <X>12</X>
+    <Y>172</Y>
+    <Width>204</Width>
+    <Height>70</Height>
+    <ControlProgId>{b2c74fc3-b8cd-11d4-bf15-b7ffe40bcc6f}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>030003000000000000001300f0f0f000000000000b0000001300f0f0f0000c00000041007200690061006c00000002000c001300000000000b00ffff0b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b0000000c00000041007200690061006c00000002000a001300000000000b0000000b0000000b0000001200010014000000180437043c043504400435043d0438044f0400000300000000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{72558fbd-0bd2-4550-b310-a025d71c6cc9}</Id>
+    <Name>Значение</Name>
+    <X>19</X>
+    <Y>52</Y>
+    <Width>191</Width>
+    <Height>25</Height>
+    <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0300be130000030095020000260000002400310038003700350038002e00310038003700360030002e0031003800370036003600000003001b0000000300000000000300e1e1e1000200000002000100030001000000020000000200000003000000ff0003000400000002000300020000000800020000000000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc00009001c0d4010005417269616c03000000000003000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a007300730000000200ffff08000000000008005c0000002604350445042e002104180426041d042e0023043f044004300432043b0435043d04380435042e0021043a04400438043f0442042e0012044b0445043e0434044b042e0021043e0441044204170430043f044304490435043d0400000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18758.18760.18766</Value>
+    </Property>
+  </Item>
+  <Pin Type="MSPout">
+    <Id>{846a4c1e-9589-4111-8e4b-4be044e761cc}</Id>
+    <Name>АвтоматКом</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPoutId>1</MSPoutId>
+    <MSPoutName>Объект.Цех.СИЦН.Управление.АвтоматКом</MSPoutName>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{d51320be-9af4-404f-9e58-b91e0442c4b9}</Id>
+    <Name>АвтоматКом 1</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPinId>2</MSPinId>
+    <MSPinName>Объект.Цех.СИЦН.Управление.АвтоматКом</MSPinName>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{078e3838-6316-4045-bf01-52e570234c36}</Id>
+    <Name>Измерения</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPinId>3</MSPinId>
+    <MSPinName>Объект.Цех.СИЦН.Управление.Измерения</MSPinName>
+  </Pin>
+  <Pin Type="MSPout">
+    <Id>{96fd7200-4f71-47e1-b9fc-8fc70e41497f}</Id>
+    <Name>Измерения 1</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPoutId>4</MSPoutId>
+    <MSPoutName>Объект.Цех.СИЦН.Управление.Измерения</MSPoutName>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{bd1f1899-f538-4f4f-9b37-0de1541ef9e7}</Id>
+    <ItemId>{97d5e4ad-58e5-4c2a-8bd3-d20b223b0990}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPout">
+    <Id>{8e0a9e52-7635-448b-94f2-133b4b13d8bf}</Id>
+    <ItemId>{97d5e4ad-58e5-4c2a-8bd3-d20b223b0990}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{f17bcc61-c80f-4a40-b79c-59b8569859e8}</Id>
+    <ItemId>{ff58c067-0f0e-43a1-9691-907f8ddc5680}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPout">
+    <Id>{2fe30547-0b3c-4a85-8a20-5cf3c7ef32ca}</Id>
+    <ItemId>{ff58c067-0f0e-43a1-9691-907f8ddc5680}</ItemId>
+    <ItemDispid>301</ItemDispid>
+    <ItemDispidName>Поле 1</ItemDispidName>
+    <IsAnalog>false</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Link Type="Link">
+    <Id>{8ee9b076-3158-495f-a9b5-5374f1f47743}</Id>
+    <SourceId>{d51320be-9af4-404f-9e58-b91e0442c4b9}</SourceId>
+    <DestId>{bd1f1899-f538-4f4f-9b37-0de1541ef9e7}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{5eb929d0-4007-44fb-845a-899f3c01b5d6}</Id>
+    <SourceId>{8e0a9e52-7635-448b-94f2-133b4b13d8bf}</SourceId>
+    <DestId>{846a4c1e-9589-4111-8e4b-4be044e761cc}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{2d1dfde9-42d8-45bb-b375-43d9b9607b0e}</Id>
+    <SourceId>{078e3838-6316-4045-bf01-52e570234c36}</SourceId>
+    <DestId>{f17bcc61-c80f-4a40-b79c-59b8569859e8}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{66165d35-a41d-495f-a5ca-5800e664b8cd}</Id>
+    <SourceId>{2fe30547-0b3c-4a85-8a20-5cf3c7ef32ca}</SourceId>
+    <DestId>{96fd7200-4f71-47e1-b9fc-8fc70e41497f}</DestId>
+  </Link>
+</Mnemoscheme>

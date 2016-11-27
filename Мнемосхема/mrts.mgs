@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>13:hC61Q2lwchV4L4a9hdJZ1ET9</MnemoID>
+  <Width>1024</Width>
+  <Height>736</Height>
+  <IsBackGroundImage>true</IsBackGroundImage>
+  <PathBmp>_static.tiff</PathBmp>
+  <ColorBackGround>16777215</ColorBackGround>
+  <ColorBackGroundHTML>#ffffff</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:255 B:255</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Item">
+    <Id>{dde097b9-af88-4231-a65e-a65ceafadc8a}</Id>
+    <Name>Управление системой</Name>
+    <X>14</X>
+    <Y>24</Y>
+    <Width>753</Width>
+    <Height>381</Height>
+    <ControlProgId>{892e9fec-b857-45eb-b9d7-e64f22cfa2c7}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0001000000ffffffff010000000000000004010000001c53797374656d2e436f6c6c656374696f6e732e486173687461626c65070000000a4c6f6164466163746f720756657273696f6e08436f6d70617265721048617368436f646550726f7669646572084861736853697a65044b6579730656616c756573000003030005050b081c53797374656d2e436f6c6c656374696f6e732e49436f6d70617265722453797374656d2e436f6c6c656374696f6e732e4948617368436f646550726f766964657208ec51383f050000000a0a07000000090200000009030000001002000000040000000604000000044e616d65060500000008546162496e64657806060000000453697a650607000000084c6f636174696f6e100300000004000000060800000014436f6e74726f6c57696e646f77436f6e74726f6c06090000000130060a000000083735332c20333831060b0000000631342c2032340b</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Show</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+</Mnemoscheme>

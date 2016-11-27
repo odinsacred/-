@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>146:hC61Q2lwchV4L4a9hdJZ1ET9</MnemoID>
+  <Width>1920</Width>
+  <Height>1000</Height>
+  <IsBackGroundImage>true</IsBackGroundImage>
+  <PathBmp>_static.tiff</PathBmp>
+  <ColorBackGround>8438015</ColorBackGround>
+  <ColorBackGroundHTML>#ffc080</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:192 B:128</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+  <Item Type="Group">
+    <Id>{92b75ab7-2f0a-471f-a294-533cfde45090}</Id>
+    <Name>Группа 3</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{2600969e-a2d9-4c6c-83e9-360202836ca1}</Id>
+    <Name>Группа</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{e2e2c32d-aa4b-4bd0-b0fd-5525d7c11954}</Id>
+    <Name>Группа 1</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{02fc29a7-a8c4-4d6e-b2be-671e3c61bc8a}</Id>
+    <Name>Группа 4</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{aafa0060-2521-4d79-a82d-92f800b75557}</Id>
+    <Name>Группа 2</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{ce336b77-e628-49be-9a9a-14da446c9775}</Id>
+    <Name>Группа 5</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{6f94386a-2311-4a49-b6fb-cc8450afe4f1}</Id>
+    <Name>Группа 6</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{6f1953d0-8066-4669-8c86-44066953ebe7}</Id>
+    <Name>Группа 8</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{c33c9b31-bc50-4474-947c-ba0dd3dccc53}</Id>
+    <Name>Группа 9</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Group">
+    <Id>{fc55b87f-7f89-467f-aeab-eda267e5a7b9}</Id>
+    <Name>Группа 10</Name>
+    <X>-1</X>
+    <Y>-1</Y>
+    <Width>-1</Width>
+    <Height>-1</Height>
+    <ControlProgId>MGDesign.Items.Group, MGDesign, Version=3.6.0.43228, Culture=neutral, PublicKeyToken=null</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+  </Item>
+  <Item Type="Item">
+    <Id>{dc180b82-2cd0-490d-a6a5-c89b3635fd02}</Id>
+    <Name>Кнопка объекта</Name>
+    <X>63</X>
+    <Y>782</Y>
+    <Width>772</Width>
+    <Height>171</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>2600000018043c04380442043004460438043e043d043d044b04390420004104420435043d04340400001300c0c0c000020002000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000ca4f0000ac1100000a00000024003100340039000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff080000000000020001000800020000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$149</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{010eb3c2-1491-4755-ba7d-5dfeb1d60cf7}</Id>
+    <Name>Кнопка объекта 1</Name>
+    <X>4</X>
+    <Y>4</Y>
+    <Width>1556</Width>
+    <Height>140</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0800000021041a04180400001300c0c0c000020003000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000d1a00000780e00000e0000002400310036003700300036000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff080000000000020001000800020000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$16706</Value>
+    </Property>
+  </Item>
+  <Item Type="Item">
+    <Id>{6a9279a5-95d4-4993-a22d-a80fa16e34aa}</Id>
+    <Name>Кнопка объекта 2</Name>
+    <X>1078</X>
+    <Y>813</Y>
+    <Width>442</Width>
+    <Height>187</Height>
+    <ControlProgId>{a46181d1-be2b-462d-8d3f-1e963fcafdf1}</ControlProgId>
+    <IsBlink>false</IsBlink>
+    <IsVisible>true</IsVisible>
+    <IsDisabled>false</IsDisabled>
+    <ItemData>0a0000002104180426041d0400001300c0c0c000020002000200000000000200000000000c00000041007200690061006c00000002000c001300000000000b0000000b0000000b000000af2d0000541300000e0000002400310038003100380031000000050000000000000000000300080000000b0000000300000000000a00000023004d002c003100000003000000ff030000150100000300ffffffff08000200000000000300800000000d00000000000000000000000000000000000300000000000b00ffff0300000000000300000000000300000000000300000000000300000000000b00000003000000000000000200000000000b00ffff0b00ffff0b0000000b00ffff1300000000000300ffffffff0800000000000200ffff080000000000020004000101</ItemData>
+    <RelativePosition>false</RelativePosition>
+    <ShowFrame>false</ShowFrame>
+    <ShowFrameMode>Default</ShowFrameMode>
+    <ControlStateFlags>0</ControlStateFlags>
+    <Property>
+      <Name>FBPath</Name>
+      <Value>$18181</Value>
+    </Property>
+  </Item>
+</Mnemoscheme>
