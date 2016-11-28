@@ -610,7 +610,7 @@
     <Id>{9287c827-6231-4fa2-98b2-ce71984e11d5}</Id>
     <Name>Значение 17</Name>
     <X>330</X>
-    <Y>300</Y>
+    <Y>303</Y>
     <Width>220</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -631,7 +631,7 @@
     <Id>{86c9ff96-f17e-4f56-ae41-a006ba175330}</Id>
     <Name>Значение 18</Name>
     <X>330</X>
-    <Y>334</Y>
+    <Y>337</Y>
     <Width>220</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -652,7 +652,7 @@
     <Id>{7b9b8d4f-e41f-4c6a-8161-6452dcf837d0}</Id>
     <Name>Значение 19</Name>
     <X>330</X>
-    <Y>370</Y>
+    <Y>373</Y>
     <Width>221</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -673,7 +673,7 @@
     <Id>{d1048a49-c545-415d-9cdb-f274e67813a3}</Id>
     <Name>Значение 20</Name>
     <X>330</X>
-    <Y>470</Y>
+    <Y>498</Y>
     <Width>220</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -694,7 +694,7 @@
     <Id>{45b1a578-545b-422d-98b1-a9af93475af9}</Id>
     <Name>Значение 21</Name>
     <X>330</X>
-    <Y>510</Y>
+    <Y>538</Y>
     <Width>220</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -715,7 +715,7 @@
     <Id>{60a4f490-fb75-4ed3-92f7-d0d0d307ae43}</Id>
     <Name>Значение 22</Name>
     <X>330</X>
-    <Y>550</Y>
+    <Y>578</Y>
     <Width>220</Width>
     <Height>25</Height>
     <ControlProgId>{27f46f65-a372-4edd-9d9d-0d22a3748327}</ControlProgId>
@@ -845,7 +845,7 @@
     <MSPinName>Объект.Цех.СКИ.Состояние концевиков ДВД.Выходы.открыт</MSPinName>
   </Pin>
   <Pin Type="DispPin">
-    <Id>{41434e83-c87f-4b8f-bd02-5cc5cb686ac1}</Id>
+    <Id>{261aa775-af99-40c6-860d-d1b713df41fb}</Id>
     <ItemId>{dbffe200-711f-405e-9108-5183ef821e18}</ItemId>
     <ItemDispid>1017</ItemDispid>
     <ItemDispidName>Заблокирован</ItemDispidName>
@@ -860,8 +860,8 @@
     </Interval>
   </Pin>
   <Link Type="Link">
-    <Id>{f25cc677-306b-4bc7-9f0f-4fca6af256ab}</Id>
+    <Id>{4cf5ba5e-d1be-4bd2-ae40-c3e8cec625ae}</Id>
     <SourceId>{f0341b05-322d-4146-8064-4e087f1a2a1d}</SourceId>
-    <DestId>{41434e83-c87f-4b8f-bd02-5cc5cb686ac1}</DestId>
+    <DestId>{261aa775-af99-40c6-860d-d1b713df41fb}</DestId>
   </Link>
 </Mnemoscheme>

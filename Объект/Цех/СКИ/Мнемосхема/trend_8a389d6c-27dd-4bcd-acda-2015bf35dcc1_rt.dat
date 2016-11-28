@@ -165,8 +165,8 @@
     <InterpolationMode>false</InterpolationMode>
     <DelimiterCsv>59</DelimiterCsv>
     <DateTimeView>ДатаВремя</DateTimeView>
-    <From>2016-08-23T07:43:50.552637Z</From>
-    <Till>2016-08-23T07:53:50.552637Z</Till>
+    <From>2016-11-28T12:31:51.4856486Z</From>
+    <Till>2016-11-28T12:41:51.4856486Z</Till>
     <ColorView>true</ColorView>
     <MaxRows>150000</MaxRows>
   </TableValuesSettings>
@@ -4640,8 +4640,8 @@
     <ShowToolTip>true</ShowToolTip>
   </MiniLegendTableSettings>
   <MiniLegendTableVisibility>true</MiniLegendTableVisibility>
-  <From>2016-08-23T07:43:50.552637Z</From>
-  <Till>2016-08-23T07:53:50.552637Z</Till>
+  <From>2016-11-28T12:31:51.4856486Z</From>
+  <Till>2016-11-28T12:41:51.4856486Z</Till>
   <ShowAll>false</ShowAll>
   <AttachedTrends />
   <PerformanceType>Баланс</PerformanceType>
