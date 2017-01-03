@@ -17,7 +17,7 @@
   <ControlPanelVisible>true</ControlPanelVisible>
   <ProgressBarVisible>true</ProgressBarVisible>
   <ToolBarVisible>true</ToolBarVisible>
-  <LastGraphID>170</LastGraphID>
+  <LastGraphID>210</LastGraphID>
   <Name>Общие настройки</Name>
   <UserTimeIntervals>
     <UserTimeInterval>
@@ -1023,16 +1023,16 @@
     <Width>887</Width>
     <Height>347</Height>
     <AttachedWindowSizeGuid>00000000-0000-0000-0000-000000000000</AttachedWindowSizeGuid>
-    <ActualMinX>42684.4343071412</ActualMinX>
-    <ActualMaxX>42684.43503876157</ActualMaxX>
+    <ActualMinX>42695.471546597226</ActualMinX>
+    <ActualMaxX>42695.471625902777</ActualMaxX>
     <ActualMinY>0</ActualMinY>
     <ActualMaxY>347</ActualMaxY>
-    <MinValueX>42684.4343071412</MinValueX>
+    <MinValueX>42695.471546597226</MinValueX>
     <MinValueY>0</MinValueY>
-    <MaxValueX>42684.43503876157</MaxValueX>
+    <MaxValueX>42695.471625902777</MaxValueX>
     <MinMaxX>
-      <Max>42684.43503876157</Max>
-      <Min>42684.4343071412</Min>
+      <Max>42695.471625902777</Max>
+      <Min>42695.471546597226</Min>
     </MinMaxX>
     <MaxValueY>347</MaxValueY>
     <MinMaxY>
@@ -1447,20 +1447,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>80</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>12.645545210765697</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>80</MaxValueY>
+      <MaxValueY>12.645545210765697</MaxValueY>
       <MinMaxY>
-        <Max>80</Max>
+        <Max>12.645545210765697</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -1891,16 +1891,16 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
       <ActualMaxY>10</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
       <MaxValueY>10</MaxValueY>
       <MinMaxY>
@@ -1959,11 +1959,11 @@
           <Checked>false</Checked>
           <Color>
             <A>255</A>
-            <R>0</R>
+            <R>255</R>
             <G>255</G>
             <B>0</B>
             <ScA>1</ScA>
-            <ScR>0</ScR>
+            <ScR>1</ScR>
             <ScG>1</ScG>
             <ScB>0</ScB>
           </Color>
@@ -1991,11 +1991,11 @@
             </RelativeTransform>
             <Color>
               <A>255</A>
-              <R>0</R>
+              <R>255</R>
               <G>255</G>
               <B>0</B>
               <ScA>1</ScA>
-              <ScR>0</ScR>
+              <ScR>1</ScR>
               <ScG>1</ScG>
               <ScB>0</ScB>
             </Color>
@@ -2016,11 +2016,11 @@
           <Checked>false</Checked>
           <Color>
             <A>255</A>
-            <R>0</R>
+            <R>127</R>
             <G>127</G>
             <B>0</B>
             <ScA>1</ScA>
-            <ScR>0</ScR>
+            <ScR>0.212230757</ScR>
             <ScG>0.212230757</ScG>
             <ScB>0</ScB>
           </Color>
@@ -2048,11 +2048,11 @@
             </RelativeTransform>
             <Color>
               <A>255</A>
-              <R>0</R>
+              <R>127</R>
               <G>127</G>
               <B>0</B>
               <ScA>1</ScA>
-              <ScR>0</ScR>
+              <ScR>0.212230757</ScR>
               <ScG>0.212230757</ScG>
               <ScB>0</ScB>
             </Color>
@@ -2069,11 +2069,11 @@
         <Checked>false</Checked>
         <Color>
           <A>50</A>
-          <R>0</R>
+          <R>255</R>
           <G>255</G>
           <B>0</B>
           <ScA>0.196078435</ScA>
-          <ScR>0</ScR>
+          <ScR>1</ScR>
           <ScG>1</ScG>
           <ScB>0</ScB>
         </Color>
@@ -2101,11 +2101,11 @@
           </RelativeTransform>
           <Color>
             <A>50</A>
-            <R>0</R>
+            <R>255</R>
             <G>255</G>
             <B>0</B>
             <ScA>0.196078435</ScA>
-            <ScR>0</ScR>
+            <ScR>1</ScR>
             <ScG>1</ScG>
             <ScB>0</ScB>
           </Color>
@@ -2127,11 +2127,11 @@
           <Checked>false</Checked>
           <Color>
             <A>255</A>
-            <R>204</R>
+            <R>254</R>
             <G>254</G>
             <B>204</B>
             <ScA>1</ScA>
-            <ScR>0.603827357</ScR>
+            <ScR>0.9911021</ScR>
             <ScG>0.9911021</ScG>
             <ScB>0.603827357</ScB>
           </Color>
@@ -2159,11 +2159,11 @@
             </RelativeTransform>
             <Color>
               <A>255</A>
-              <R>204</R>
+              <R>254</R>
               <G>254</G>
               <B>204</B>
               <ScA>1</ScA>
-              <ScR>0.603827357</ScR>
+              <ScR>0.9911021</ScR>
               <ScG>0.9911021</ScG>
               <ScB>0.603827357</ScB>
             </Color>
@@ -2342,20 +2342,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>80</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>12.645545210765697</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>80</MaxValueY>
+      <MaxValueY>12.645545210765697</MaxValueY>
       <MinMaxY>
-        <Max>80</Max>
+        <Max>12.645545210765697</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -2390,7 +2390,7 @@
       <ShowVerticalLines>true</ShowVerticalLines>
       <ShowSecondaryGrid>true</ShowSecondaryGrid>
       <AxisType>Вертикальная</AxisType>
-      <Caption>Расход</Caption>
+      <Caption>Вес</Caption>
       <VerticalTextAlign>Центр</VerticalTextAlign>
       <VerticalNameAlign>Центр</VerticalNameAlign>
       <HorizontalNameAlign>Лево</HorizontalNameAlign>
@@ -3251,7 +3251,7 @@
     <BaseGraphObject xsi:type="Graph2D">
       <Name>Температура</Name>
       <GUID>45af0259-9dd1-4762-898a-d541c6461fc3</GUID>
-      <Checked>true</Checked>
+      <Checked>false</Checked>
       <PenStyle>
         <Name />
         <GUID>00000000-0000-0000-0000-000000000000</GUID>
@@ -3635,7 +3635,7 @@
           </Brush>
         </BrushStyle>
       </PointStyle>
-      <Visible>true</Visible>
+      <Visible>false</Visible>
       <AttachedStyleGuid>00000000-0000-0000-0000-000000000000</AttachedStyleGuid>
       <ConverterPrefix />
       <ObjType>Common</ObjType>
@@ -3645,20 +3645,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>100.00000000000001</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>126.45545210765697</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>100.00000000000001</MaxValueY>
+      <MaxValueY>126.45545210765697</MaxValueY>
       <MinMaxY>
-        <Max>100.00000000000001</Max>
+        <Max>126.45545210765697</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -3717,7 +3717,7 @@
     <BaseGraphObject xsi:type="Graph2D">
       <Name>Расход</Name>
       <GUID>af4abfa0-afec-4ad3-9996-2654854b1e6c</GUID>
-      <Checked>true</Checked>
+      <Checked>false</Checked>
       <PenStyle>
         <Name />
         <GUID>00000000-0000-0000-0000-000000000000</GUID>
@@ -4101,7 +4101,7 @@
           </Brush>
         </BrushStyle>
       </PointStyle>
-      <Visible>true</Visible>
+      <Visible>false</Visible>
       <AttachedStyleGuid>00000000-0000-0000-0000-000000000000</AttachedStyleGuid>
       <ConverterPrefix />
       <ObjType>Common</ObjType>
@@ -4111,20 +4111,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>80</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>101.16436168612557</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>80</MaxValueY>
+      <MaxValueY>101.16436168612557</MaxValueY>
       <MinMaxY>
-        <Max>80</Max>
+        <Max>101.16436168612557</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -4577,20 +4577,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>10</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>12.645545210765697</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>10</MaxValueY>
+      <MaxValueY>12.645545210765697</MaxValueY>
       <MinMaxY>
-        <Max>10</Max>
+        <Max>12.645545210765697</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -4649,7 +4649,7 @@
     <BaseGraphObject xsi:type="Graph2D">
       <Name>ДавлНаВходе</Name>
       <GUID>7b25316d-4f99-4511-bac8-434b76b1860d</GUID>
-      <Checked>true</Checked>
+      <Checked>false</Checked>
       <PenStyle>
         <Name />
         <GUID>00000000-0000-0000-0000-000000000000</GUID>
@@ -5033,7 +5033,7 @@
           </Brush>
         </BrushStyle>
       </PointStyle>
-      <Visible>true</Visible>
+      <Visible>false</Visible>
       <AttachedStyleGuid>00000000-0000-0000-0000-000000000000</AttachedStyleGuid>
       <ConverterPrefix />
       <ObjType>Common</ObjType>
@@ -5043,20 +5043,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>15</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>18.968317816148542</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>15</MaxValueY>
+      <MaxValueY>18.968317816148542</MaxValueY>
       <MinMaxY>
-        <Max>15</Max>
+        <Max>18.968317816148542</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -5115,7 +5115,7 @@
     <BaseGraphObject xsi:type="Graph2D">
       <Name>ДавлНаВыходе</Name>
       <GUID>0032d9f1-f5af-470b-96df-c35ac0a8746f</GUID>
-      <Checked>true</Checked>
+      <Checked>false</Checked>
       <PenStyle>
         <Name />
         <GUID>00000000-0000-0000-0000-000000000000</GUID>
@@ -5499,7 +5499,7 @@
           </Brush>
         </BrushStyle>
       </PointStyle>
-      <Visible>true</Visible>
+      <Visible>false</Visible>
       <AttachedStyleGuid>00000000-0000-0000-0000-000000000000</AttachedStyleGuid>
       <ConverterPrefix />
       <ObjType>Common</ObjType>
@@ -5509,20 +5509,20 @@
       <Width>887</Width>
       <Height>347</Height>
       <AttachedWindowSizeGuid>4b4ee582-b767-4f03-961a-5e215bf120e8</AttachedWindowSizeGuid>
-      <ActualMinX>42684.4343071412</ActualMinX>
-      <ActualMaxX>42684.43503876157</ActualMaxX>
+      <ActualMinX>42695.471546597226</ActualMinX>
+      <ActualMaxX>42695.471625902777</ActualMaxX>
       <ActualMinY>0</ActualMinY>
-      <ActualMaxY>15</ActualMaxY>
-      <MinValueX>42684.4343071412</MinValueX>
+      <ActualMaxY>18.968317816148542</ActualMaxY>
+      <MinValueX>42695.471546597226</MinValueX>
       <MinValueY>0</MinValueY>
-      <MaxValueX>42684.43503876157</MaxValueX>
+      <MaxValueX>42695.471625902777</MaxValueX>
       <MinMaxX>
-        <Max>42684.43503876157</Max>
-        <Min>42684.4343071412</Min>
+        <Max>42695.471625902777</Max>
+        <Min>42695.471546597226</Min>
       </MinMaxX>
-      <MaxValueY>15</MaxValueY>
+      <MaxValueY>18.968317816148542</MaxValueY>
       <MinMaxY>
-        <Max>15</Max>
+        <Max>18.968317816148542</Max>
         <Min>0</Min>
       </MinMaxY>
       <FormatterX xsi:type="DateTimeFormatter">
@@ -8788,8 +8788,8 @@
     <InterpolationMode>false</InterpolationMode>
     <DelimiterCsv>59</DelimiterCsv>
     <DateTimeView>ДатаВремя</DateTimeView>
-    <From>2016-11-10T10:25:24.1372757Z</From>
-    <Till>2016-11-10T10:26:27.3492757Z</Till>
+    <From>2016-11-21T11:19:01.6262779Z</From>
+    <Till>2016-11-21T11:19:08.4782779Z</Till>
     <ColorView>true</ColorView>
     <MaxRows>150000</MaxRows>
   </TableValuesSettings>
@@ -9925,8 +9925,8 @@
     <ShowToolTip>true</ShowToolTip>
   </MiniLegendTableSettings>
   <MiniLegendTableVisibility>true</MiniLegendTableVisibility>
-  <From>2016-11-10T10:25:24.1372757Z</From>
-  <Till>2016-11-10T10:26:27.3492757Z</Till>
+  <From>2016-11-21T11:19:01.6262779Z</From>
+  <Till>2016-11-21T11:19:08.4782779Z</Till>
   <ShowAll>false</ShowAll>
   <AttachedTrends />
   <PerformanceType>Баланс</PerformanceType>

@@ -412,7 +412,7 @@
     <IsBlink>false</IsBlink>
     <IsVisible>true</IsVisible>
     <IsDisabled>false</IsDisabled>
-    <ItemData>0300550d00000300950200001a0000002400310038003200340037002e0031003800320038003500000003001b000000030000000000030080ffff000200070002000100030002000000020000000200000003000000ff00030002000000020003000200000008000400000025000000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc0000900174b7010005417269616c03000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000003000000000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a007300730000000200ffff0800000000000800340000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e0028043004330400000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
+    <ItemData>0300550d00000300950200001a0000002400310038003200340037002e0031003800320038003500000003001b000000030000000000030080ffff000200070002000100030002000000020000000200000003000000ff00030002000000020003000200000008000c000000280048043004330429000000080002000000000008000a00000012043a043b042e00000008000c00000012044b043a043b042e00000003000100000003000100000002000100020001000352e30b918fce119de300aa004bb85101cc0000900174b7010005417269616c03000000000003000000000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000100000003000000000003000000000003000000000002000300080016000000640064002e004d004d002e007900790079007900000008001000000048003a006d006d003a007300730000000200ffff0800000000000800340000002604350445042e002104180426041d042e002804300440043e0432044b04390420003a04400430043d042e0028043004330400000500000000000000000008000200000000000500000000000000000008000200000000000300000000000b0000000b00ffff</ItemData>
     <RelativePosition>false</RelativePosition>
     <ShowFrame>false</ShowFrame>
     <ShowFrameMode>Default</ShowFrameMode>
@@ -967,8 +967,38 @@
     <MSPinId>7</MSPinId>
     <MSPinName>Объект.Цех.СИЦН.Шаровый кран.Авто</MSPinName>
   </Pin>
+  <Pin Type="MSPin">
+    <Id>{12dff8c9-8005-4023-8098-ef3416e9b004}</Id>
+    <Name>КомандаТест</Name>
+    <IsAnalog>true</IsAnalog>
+    <MinBound>0</MinBound>
+    <MaxBound>100</MaxBound>
+    <MSPinId>8</MSPinId>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{bea81dc7-b5ee-4f7c-b11f-dccd20747078}</Id>
+    <Name>тест</Name>
+    <IsAnalog>true</IsAnalog>
+    <MinBound>0</MinBound>
+    <MaxBound>100</MaxBound>
+    <MSPinId>9</MSPinId>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{e22c1161-12eb-4aaf-8761-d5bf13834644}</Id>
+    <Name>Результат</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPinId>10</MSPinId>
+    <MSPinName>Объект.Цех.СИЦН.Расчеты.Логическое ИЛИ.Результат</MSPinName>
+  </Pin>
+  <Pin Type="MSPin">
+    <Id>{351a9a3d-f34c-4f2b-b570-6ce6cf7fbb8e}</Id>
+    <Name>Выход 1</Name>
+    <IsAnalog>false</IsAnalog>
+    <MSPinId>11</MSPinId>
+    <MSPinName>Объект.Цех.СИЦН.Управление.ТриггерКнопкиИзмерения.Выход</MSPinName>
+  </Pin>
   <Pin Type="DispPin">
-    <Id>{ae9a1459-5b03-4707-9db8-da595f2253c2}</Id>
+    <Id>{b659938a-51a7-4dcc-aeef-c46547440cfb}</Id>
     <ItemId>{71763112-2e74-48a2-a1a0-dac08c4fa351}</ItemId>
     <ItemDispid>1017</ItemDispid>
     <ItemDispidName>Заблокирован</ItemDispidName>
@@ -979,7 +1009,7 @@
     <ControlValueIsString>false</ControlValueIsString>
   </Pin>
   <Pin Type="DispPin">
-    <Id>{c5b505ed-4a5b-4328-b4b5-4382526fd0e0}</Id>
+    <Id>{0f7c1125-edcb-4bc0-81b2-bf01ee011024}</Id>
     <ItemId>{f62bd2d5-fce8-4a44-8f5d-4054e753ced7}</ItemId>
     <ItemDispid>1017</ItemDispid>
     <ItemDispidName>Заблокирован</ItemDispidName>
@@ -990,7 +1020,18 @@
     <ControlValueIsString>false</ControlValueIsString>
   </Pin>
   <Pin Type="DispPin">
-    <Id>{b267d84a-3d15-43a8-8588-736b079ff66e}</Id>
+    <Id>{3758e9af-0ff7-4eb6-a43a-d550457af871}</Id>
+    <ItemId>{f62bd2d5-fce8-4a44-8f5d-4054e753ced7}</ItemId>
+    <ItemDispid>17</ItemDispid>
+    <ItemDispidName>Ввод значения</ItemDispidName>
+    <IsAnalog>true</IsAnalog>
+    <PinValueIsString>false</PinValueIsString>
+    <IsColor>false</IsColor>
+    <IsLinear>false</IsLinear>
+    <ControlValueIsString>false</ControlValueIsString>
+  </Pin>
+  <Pin Type="DispPin">
+    <Id>{db4fba49-64d8-44e4-aa61-3f2ccadbdf07}</Id>
     <ItemId>{436ff5df-fdb2-4938-8c22-257a656bc2a7}</ItemId>
     <ItemDispid>1017</ItemDispid>
     <ItemDispidName>Заблокирован</ItemDispidName>
@@ -1001,7 +1042,7 @@
     <ControlValueIsString>false</ControlValueIsString>
   </Pin>
   <Pin Type="DispPin">
-    <Id>{ab392332-c873-44e4-9174-6256d568522f}</Id>
+    <Id>{bc6d507c-4b79-40e7-a240-ff34c26262a0}</Id>
     <ItemId>{3a16f394-98db-4f69-a17c-2ee412864244}</ItemId>
     <ItemDispid>1017</ItemDispid>
     <ItemDispidName>Заблокирован</ItemDispidName>
@@ -1012,23 +1053,28 @@
     <ControlValueIsString>false</ControlValueIsString>
   </Pin>
   <Link Type="Link">
-    <Id>{d74235a1-17a5-485d-adb3-e7d8a4744aef}</Id>
-    <SourceId>{893a066d-1ce4-4af4-8315-a5dc0ac4213f}</SourceId>
-    <DestId>{ae9a1459-5b03-4707-9db8-da595f2253c2}</DestId>
+    <Id>{74df688e-caff-4502-8b1d-adec1c813a38}</Id>
+    <SourceId>{e22c1161-12eb-4aaf-8761-d5bf13834644}</SourceId>
+    <DestId>{b659938a-51a7-4dcc-aeef-c46547440cfb}</DestId>
   </Link>
   <Link Type="Link">
-    <Id>{30fcd1fc-3de5-44b6-bfa2-4126e7f885e1}</Id>
+    <Id>{054b299b-20e1-4c97-a2b0-03757738d1d0}</Id>
     <SourceId>{418a18aa-3f79-46fd-bb03-1c0370d7e26a}</SourceId>
-    <DestId>{c5b505ed-4a5b-4328-b4b5-4382526fd0e0}</DestId>
+    <DestId>{0f7c1125-edcb-4bc0-81b2-bf01ee011024}</DestId>
   </Link>
   <Link Type="Link">
-    <Id>{3b2974e3-ac75-447d-9795-216de01bf11d}</Id>
+    <Id>{23c697bb-184c-4cfb-a6d1-15a1db69a497}</Id>
+    <SourceId>{bea81dc7-b5ee-4f7c-b11f-dccd20747078}</SourceId>
+    <DestId>{3758e9af-0ff7-4eb6-a43a-d550457af871}</DestId>
+  </Link>
+  <Link Type="Link">
+    <Id>{bd2c9a05-3313-4a0a-9669-18fcfa180090}</Id>
     <SourceId>{0b17829d-95b8-45dc-93c7-759afde55eb6}</SourceId>
-    <DestId>{b267d84a-3d15-43a8-8588-736b079ff66e}</DestId>
+    <DestId>{db4fba49-64d8-44e4-aa61-3f2ccadbdf07}</DestId>
   </Link>
   <Link Type="Link">
-    <Id>{ee08e871-06f5-4c62-bbd6-68f890aa6a11}</Id>
-    <SourceId>{893a066d-1ce4-4af4-8315-a5dc0ac4213f}</SourceId>
-    <DestId>{ab392332-c873-44e4-9174-6256d568522f}</DestId>
+    <Id>{32848c9c-5157-4637-9464-349edf1d5ea5}</Id>
+    <SourceId>{e22c1161-12eb-4aaf-8761-d5bf13834644}</SourceId>
+    <DestId>{bc6d507c-4b79-40e7-a240-ff34c26262a0}</DestId>
   </Link>
 </Mnemoscheme>
